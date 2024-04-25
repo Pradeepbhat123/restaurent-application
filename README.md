@@ -2,8 +2,11 @@ Welcome to the Restaurant App repository! This project contains the source code 
 
 Project Structure
 index.html: The main landing page of the application.
+
 cart.html: Page for managing the user's shopping cart and placing orders.
+
 login.html: Page for user authentication and login.
+
 my_orders.html: Page for viewing and tracking the user's order history.
 
 JavaScript Files
